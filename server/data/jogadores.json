@@ -95,6 +95,25 @@
 			"personastateflags": 0,
 			"loccountrycode": "BR",
 			"locstatecode": "15"
-		}
+		},
+		{
+			"steamid": "76561198037277415",
+			"communityvisibilitystate": 3,
+			"profilestate": 1,
+			"personaname": "zero_xknight",
+			"profileurl": "https://steamcommunity.com/id/zero_xknight/",
+			"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef159efa54222e03a92b8a9b49e718883f92f39b.jpg",
+			"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef159efa54222e03a92b8a9b49e718883f92f39b_medium.jpg",
+			"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef159efa54222e03a92b8a9b49e718883f92f39b_full.jpg",
+			"avatarhash": "ef159efa54222e03a92b8a9b49e718883f92f39b",
+			"lastlogoff": 1627887894,
+			"personastate": 1,
+			"realname": "Rodrigo",
+			"primaryclanid": "103582791429521408",
+			"timecreated": 1295962570,
+			"personastateflags": 0,
+			"loccountrycode": "BR",
+			"locstatecode": "15"
+		  }
 	]
 }
